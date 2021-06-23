@@ -1,0 +1,13 @@
+{
+  "name": "splitbills",
+  "version": "1.0.0",
+  "description": "Landing Page zakodowany z darmowego projektu Figma który można znaleźć tutaj: https://uifreebies.net/figma/figma-landing-page-design-free",
+  "main": "tailwind.config.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Robert Bednarowicz",
+  "license": "whatever",
+  "dependencies": {
+    "tailwindcss": "^2.2.2"
+  }
+}
